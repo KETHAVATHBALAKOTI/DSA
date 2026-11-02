@@ -31,7 +31,19 @@ public class MyArrayListDriver {
 		System.out.println(mylist);
 		System.out.println("size : "+mylist.size());
 		System.out.println("isEmpty : "+mylist.isEmpty());
-		
+		// MyArrayList  list  =  new MyArrayList();
+		// list.addLast(10);
+		// list.addLast(20);
+		// list.addLast(30);
+		// list.addLast(40);
+		// list.addLast(50);
+		// list.addLast(60);
+		// list.addLast(70);
+		// list.addLast(80);
+		// System.out.println(list);
+		// list.insertAt(2 , 400);
+		// list.reverse();
+		// System.out.println(list);
 		
 	}
 }
