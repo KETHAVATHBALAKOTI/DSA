@@ -77,7 +77,16 @@ public class MyArrayList {
 			throw new IndexOutOfBoundsException("invalid index");
 		return  array[index];
 	}
-	
+//	remove at index
+	public void remove(int index) {
+		
+	}
+//	remove element 
+
+//	remove start , end
+//	insertAt index , object
+//	reverse
+//	sort
 }
 
 
