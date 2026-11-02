@@ -25,7 +25,7 @@ public class MyArrayList {
 		int len  = array.length+(array.length)/2 ;
 		System.out.println(len);
 		Object [] temp  = new Object[len];
-		for(int i=0;i<=size;i++)
+		for(int i=0;i<size;i++)
 			temp[i] = array[i];
 		return temp ;
 	}
